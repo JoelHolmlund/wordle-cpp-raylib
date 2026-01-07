@@ -2,6 +2,14 @@
 
 A desktop version of the popular game Wordle, developed as a personal project to learn C++ and graphics programming.
 
+## Learning Journey
+This was my first project using C++ and Raylib, created to learn the fundamentals of graphics programming and project structure. 
+
+While I followed a tutorial to understand the core architecture, I have since expanded upon it by:
+* Implementing custom JSON-loading for word lists.
+* Refactoring the code into separate header and source files for better modularity.
+* Adjusted game difficulty by tuning the maximum number of allowed guesses.
+  
 ## Tech Stack
 * **Language:** C++
 * **Graphics:** [Raylib](https://www.raylib.com/)
